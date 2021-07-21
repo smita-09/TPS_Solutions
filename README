@@ -1,0 +1,5 @@
+Hi there!
+
+This folder will mainly contain the solutions for the current ongoing comepetition Tabular Playground Series, July 2021. 
+I started with the very basic solution first which  just analyze the datetime column and create ew features based on that like year, day, week day, is_weekend, hour, season etc.
+Two models are used for this dataset, GradientBoosting and RandomForesetRegression without any hyperparameters. The predictions are then made sing both the models and later the average of both the predictions are taken to give the final prediction. This is the very basic model. 
