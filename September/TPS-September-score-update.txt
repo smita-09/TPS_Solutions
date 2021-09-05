@@ -1,0 +1,7 @@
+0.5395700484683587 
+0.7720555793600401 
+scores with mean value imputation
+0.5395700484683587
+0.7898822825912104
+with median imputation the scoreis pretty bad.
+scores with median value imputation
