@@ -11,3 +11,5 @@ Then used stratification to split the data, and then later use logistic regressi
 3rd Approach: Using random_classifier with little bit of hyperparametrization improved the score to a bit  1.7616033784491318
 
 4th Approach: Used Lightbgm 1.755212422361672
+
+5th Approach: Used Convolutional Neural Networks
