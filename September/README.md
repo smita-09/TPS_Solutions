@@ -13,3 +13,12 @@
 6th aproach: Imputed the NaN values with mean values and used XGBRegressor with StandardScaling and dropping the uncorrelated features
 
 7th aproach: Imputed the NaN values with mean values and used XGBRegressor with StandardScaling, dropping the uncorrelated features and tuned hyperparams
+
+8th approach: Up until now I was all wrong, I have been using regression which is pretty stupid thing to do but now I want to save myself from all the misery so I will try classifiers, which I should have used before but its better late than never. So, here is the score if I will use ,
+
+I used logistic regression and XGClassifier with median imputation and it actually didnt imporve the score. Dammit!
+There must be something wrong. 
+
+9th Approach: Classifier with mean imputation and fixing the iteration to 3k. Hope to see better results, let's see what happens!
+
+
