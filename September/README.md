@@ -19,6 +19,9 @@
 I used logistic regression and XGClassifier with median imputation and it actually didnt imporve the score. Dammit!
 There must be something wrong. 
 
-9th Approach: Classifier with mean imputation and fixing the iteration to 3k. Hope to see better results, let's see what happens!
+9th Approach: Classifier with mean imputation and fixing the iteration to 3k. Hope to see better results, let's see what happens! The score is so far the best of that I have seen so far but there is something wrong. It did not improve that much. Gonna try some other imputation method. :(
+
+10th Approach: Classifier when used constant imputation resulted in better results. and also when features were added it gave pretty good results for logistic regression as well which I didnt think it would give. 
+
 
 
