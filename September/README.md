@@ -25,3 +25,6 @@ There must be something wrong.
 
 11th Approach: Holy fuck! It did not overfit! yayyyyyaayyy, using XGBoostClassifier with bit of hyperparameter tuning led me to get the result that i got which helped me to get this score.
 
+12th Approach: Okay, Now again using mean imputation with CatBootser worked and helped in jumping the score so that the rank was in 140s. So far, it is a great score I think but I am still working to imrpove it. 
+
+
